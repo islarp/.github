@@ -1,12 +1,12 @@
-### Isla RP
+# Isla RP
 
 
 
-## Sobre o Projeto
+## Sobre o Projeto:
 
 Isla RP é um servidor de roleplay de MTA (Multi Theft Auto) que visa proporcionar aos jogadores uma experiência única de roleplay em um ambiente imersivo e realista. Nosso objetivo é criar um servidor que seja diverso, justo e divertido para todos os jogadores, e que permita a eles explorar diferentes aspectos da vida em um ambiente urbano.
 
-## Características do Servidor
+### Características do Servidor:
 > Um mapa extenso, com mais de 100 locais para explorar e interagir;
 > Economia realista, com preços dinâmicos e trabalhos variados;
 > Sistema de inventário personalizado, permitindo que os jogadores gerenciem seus itens e dinheiro de forma eficiente;
@@ -17,7 +17,7 @@ Isla RP é um servidor de roleplay de MTA (Multi Theft Auto) que visa proporcion
 ## Como Contribuir
 Estamos sempre procurando novos membros para se juntarem à nossa equipe e ajudar a tornar o Isla RP ainda melhor. Se você é um programador, designer, modelador 3D ou simplesmente um entusiasta de roleplay, ficaríamos felizes em tê-lo a bordo.
 
-# Você pode contribuir de várias formas, como por exemplo:
+### Você pode contribuir de várias formas, como por exemplo:
 
 > Programando novos recursos para o servidor
 > Criando designs para as interfaces do jogo
